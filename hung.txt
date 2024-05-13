@@ -400,7 +400,7 @@ Ver.Name = "Ver"
 Ver.Parent = Top
 
 NameHub.Font = Enum.Font.GothamBold
-NameHub.Text = "Matsune Auto Chest Farm"
+NameHub.Text = "Matsune Auto Chest"
 NameHub.TextColor3 = Color3.fromRGB(230.00000149011612, 230.00000149011612, 230.00000149011612)
 NameHub.TextSize = 23
 NameHub.TextXAlignment = Enum.TextXAlignment.Left
